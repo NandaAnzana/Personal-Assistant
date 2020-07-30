@@ -1,0 +1,10 @@
+{"intens":[
+    {"Tag":"Salam",
+    "patterns":["Halo","Hi","Permisi","Assalamualaikum","Hello","Apa ada orang?"], 
+    "respons":["Halo juga", "Hi!", "Iya silahkan lewat", "Walaikumsallam", "Hello!", "Iya, ada yang bisa dibantu?"],
+    "context":""},
+    {"Tag":"Perpisahan",
+    "patterns":["Bye","Dadah","Udah dulu ya","See you","Hello","Apa ada orang?"], 
+    "respons":["Yah yaudah bye", "Sampai ketemu lagi", "Iya gapapa. Dadah!", "Okay, goodbye", "Hello!", "Iya, ada yang bisa dibantu?"],
+    "context":""}
+]}
